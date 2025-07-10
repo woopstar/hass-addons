@@ -1,6 +1,6 @@
 {
   "name": "Tailscale",
-  "version": "1.84.0.1",
+  "version": "1.84.0.2",
   "slug": "tailscale",
   "description": "A zero config VPN",
   "url": "https://github.com/woopstar/hass-addons/tree/main/tailscale",
