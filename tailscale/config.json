@@ -1,9 +1,9 @@
 {
   "name": "Tailscale",
-  "version": "1.84.0.0",
+  "version": "1.84.0.1",
   "slug": "tailscale",
   "description": "A zero config VPN",
-  "url": "https://github.com/tsujamin/hass-addons/tree/main/tailscale",
+  "url": "https://github.com/woopstar/hass-addons/tree/main/tailscale",
   "arch": [
     "armhf",
     "armv7",
