@@ -7,7 +7,7 @@ ARG TAILSCALE_VERSION="1.84.0"
 
 ENV LANG C.UTF-8
 
-RUN apt update && apt upgrade -y \
+RUN apt update && apt upgrade -y && \
     apt install -y wget iptables iproute2 procps iputils-ping && \
     echo "Installing ${TAILSCALE_VERSION} for ${BUILD_ARCH}"
 
